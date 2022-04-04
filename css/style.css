@@ -1,0 +1,58 @@
+*{
+  Background-color:#e7e9eb;
+}
+.kkumar{
+  width:450px;
+  height:380px;
+  background: red;
+  padding:20px;
+  margin:50px;
+}
+.new{
+  display:inline-block;
+}
+.skumar{
+  width:450px;
+  height:380px;
+  background:green;
+  padding:20px;
+  margin:50px;
+}
+
+.kumar1{
+  color:red;
+  border:2px dotted red;
+  padding:20px;
+  display:inline;
+  margin-bottom:10px;
+}
+#kumar2{
+  color:red;
+  background:blue;
+  padding:10px;
+  display:inline-block;
+}
+.textc{
+  color:green;
+}
+table{
+  width:50%;
+}
+
+ul{
+  list-style-type:square;
+  font-size:25px;
+
+}
+
+th{
+  text-align:center;
+  color:lime;
+  padding:15px;
+}
+td{
+  text-align:center;
+  color:green;
+  padding:18px;
+  background-color:black;
+}
